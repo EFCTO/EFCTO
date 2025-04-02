@@ -4,4 +4,5 @@
 
 <p1><strong>마크업 언어 :  </strong></p1><img src="https://img.shields.io/badge/HTML5-000000.svg?style=flat&logo=html5&logoColor=E34F26" />, <img src="https://img.shields.io/badge/CSS3-000000.svg?style=flat&logo=css3&logoColor=1572B6" />
 
+<p1><strong>기타 :  </strong></p1><img src="https://img.shields.io/badge/nodejs-000000.svg?style=flat&logo=nodedotjs&logoColor=5FA04E" />
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EFCTO)](https://github.com/EFCTO/github-readme-stats)
