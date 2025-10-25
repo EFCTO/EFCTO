@@ -4,6 +4,26 @@
 <img src="https://img.shields.io/badge/nodejs-000000.svg?style=flat&logo=nodedotjs&logoColor=5FA04E" />, <img src="https://img.shields.io/badge/json-000000.svg?style=flat&logo=json&logoColor=ffffff" />, <img src="https://img.shields.io/badge/mysql-000000.svg?style=flat&logo=mysql&logoColor=4479A1" />
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EFCTO)](https://github.com/EFCTO/github-readme-stats)
+   
+   
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EFCTO&layout=compact)
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=EFCTO&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&cache_seconds=21600" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=EFCTO&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=default&cache_seconds=21600" />
+      <img alt="EFCTO GitHub stats" src="https://github-readme-stats.vercel.app/api?username=EFCTO&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=21600" />
+    </picture>
+  </a>
+</p>
+
+<!-- Top Langs (편향 주의: 개인/작은 레포 숨기기 옵션 권장) -->
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=EFCTO&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&cache_seconds=21600" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=EFCTO&layout=compact&langs_count=8&hide_border=true&theme=default&cache_seconds=21600" />
+      <img alt="EFCTO Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EFCTO&layout=compact&langs_count=8&hide_border=true&cache_seconds=21600" />
+    </picture>
+  </a>
+</p>
